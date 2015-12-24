@@ -1,6 +1,0 @@
-octopus
-sqlcluster
-!/cmd/sqlcluster
-!/.build/src/stripe-ctf.com/sqlcluster
-/test/data/octopus.version
-/test/data/downloaded_test_cases/
